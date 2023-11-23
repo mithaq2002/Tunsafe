@@ -1,2 +1,2 @@
-# Tunsafe
+# app
 VPN service provider application
